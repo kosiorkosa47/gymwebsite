@@ -1,0 +1,3 @@
+module.exports=[30007,a=>{"use strict";var b=a.i(77401);function c({children:a}){return(0,b.jsx)("html",{lang:"pl",children:(0,b.jsx)("body",{className:"min-h-screen bg-white",children:a})})}a.s(["default",()=>c,"metadata",0,{title:"APEX FITNESS - Transform Your Body",description:"Premium fitness center with personal training, group classes, and modern equipment"}])}];
+
+//# sourceMappingURL=Desktop_Projects_Si%C5%82ownia_app_layout_tsx_c58d36a4._.js.map

@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/Desktop_Projects_Siłownia_41f2062f._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__21e1416d._.js")
+R.c("server/chunks/ssr/aeaca_next_dist_esm_build_templates_app-page_e207e20b.js")
+R.c("server/chunks/ssr/[root-of-the-server]__6d1028a0._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__f24c6bc9._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__29dbed22._.js")
+R.c("server/chunks/ssr/Desktop_Projects_Siłownia_app_layout_tsx_c58d36a4._.js")
+R.c("server/chunks/ssr/aeaca_next_dist_client_components_d97fa829._.js")
+R.c("server/chunks/ssr/aeaca_next_dist_client_components_builtin_forbidden_7958cb97.js")
+R.c("server/chunks/ssr/3d860_Projects_Siłownia__next-internal_server_app__not-found_page_actions_2a88610f.js")
+R.m(29932)
+module.exports=R.m(29932).exports
